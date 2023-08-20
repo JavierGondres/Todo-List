@@ -318,7 +318,7 @@ section {
 
 .outline-div:after{
   content: "";
-  background-image: url('../public/check\ \(1\).png');
+  background-image: url('../public/check.png');
   background-size: cover;
   display: none; /* Inicialmente oculto */
   position: absolute;
@@ -347,7 +347,7 @@ section {
 
 .filled-div::after {
   content: "";
-  background-image: url('../public/check\ \(1\).png');
+  background-image: url('../public/check.png');
   background-size: cover;
   display: inline-block;
   position: absolute;
